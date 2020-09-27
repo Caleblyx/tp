@@ -97,7 +97,6 @@ Examples:
 User can search todos/meetings due by/before a certain date/time.
 
 Outputs a list of results.
-
 * Due by
     `items due by/DD/MM/YYYY [HHmm]`
     
