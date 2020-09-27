@@ -96,7 +96,7 @@ Examples:
 
 Adds a collaborative link (Google Drive, GitHub, Trello, and others)
 
-Format: 
+Format:
 `link doc [desc/DESCRIPTION] [url/LINK] todo [i/index of todo]` or
 `link doc [desc/DESCRIPTION] [url/LINK] event [i/index of event]`
 Examples:
